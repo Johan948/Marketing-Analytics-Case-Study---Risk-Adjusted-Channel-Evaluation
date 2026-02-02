@@ -1,7 +1,7 @@
 # Studiu de Caz – Marketing Analytics  
 ## Evaluarea Canalelor pe Bază de Risc–Randament (fără date de conversie)
 
-### 📌 Prezentare generală
+###  Prezentare generală
 Acest studiu de caz analizează performanța relativă a canalelor de marketing digital într-un context caracterizat de **lipsa datelor privind conversiile și veniturile**.  
 Obiectivul principal este **susținerea deciziilor de alocare a bugetului în condiții de incertitudine**, prin compararea canalelor din perspectiva eficienței, stabilității și consistenței performanței.
 
@@ -9,7 +9,7 @@ Obiectivul principal este **susținerea deciziilor de alocare a bugetului în co
 
 ---
 
-### ❓ Problema de business
+###  Problema de business
 Compania X derulează campanii de advertising pe mai multe canale digitale (Search, Social, Display, Mobile, Video), însă nu dispune de date fiabile privind conversiile sau veniturile generate.
 
 **Întrebarea-cheie:**
@@ -17,7 +17,7 @@ Compania X derulează campanii de advertising pe mai multe canale digitale (Sear
 
 ---
 
-### 🧠 Metodologie
+###  Metodologie
 Analiza urmează o abordare structurată, orientată spre decizie:
 
 - **Indicator proxy de eficiență:**  
@@ -33,7 +33,7 @@ Acest cadru permite ierarhizarea canalelor în funcție de **profilul risc–ran
 
 ---
 
-### 📊 Rezultate principale
+###  Rezultate principale
 - **Social** prezintă cel mai favorabil profil risc–randament, datorită stabilității și consistenței ridicate.
 - **Display** și **Mobile** înregistrează o eficiență medie mai ridicată, dar sunt caracterizate de volatilitate crescută, fiind potrivite pentru **scalare oportunistică**.
 - **Search** are un profil defensiv, stabil, însă cu un potențial limitat de supraperformanță.
@@ -43,7 +43,7 @@ Rezultatele confirmă faptul că **nu există un canal dominant absolut**, subli
 
 ---
 
-### 📈 Output-ul analizei
+###  Output-ul analizei
 - Statistici agregate la nivel de canal
 - Vizualizări de tip serie de timp pentru CTR/CPC
 - Analiză de volatilitate și Upside Frequency
@@ -51,14 +51,14 @@ Rezultatele confirmă faptul că **nu există un canal dominant absolut**, subli
 
 ---
 
-### ⚠️ Limitări și observații
+###  Limitări și observații
 - Studiul **nu urmărește optimizarea profitabilității**.
 - Rezultatele reflectă **eficiența operațională și comportamentul traficului**, nu performanța finală de business.
 - Concluziile trebuie completate cu date de conversie (CPA, ROAS) și validate prin experimente (ex. A/B testing).
 
 ---
 
-### 🛠️ Tehnologii & competențe
+###  Tehnologii & competențe
 - Python (pandas, numpy, matplotlib, seaborn)
 - Analiză statistică
 - Metrici de risc și normalizare
@@ -67,10 +67,10 @@ Rezultatele confirmă faptul că **nu există un canal dominant absolut**, subli
 
 ---
 
-### 📄 Raport complet
+###  Raport complet
 Explicațiile detaliate privind metodologia, vizualizările și concluziile sunt disponibile în raportul PDF:
 
-👉 `Marketing-Analytics-Case-Study---Risk-Adjusted-Channel-Evaluation.pdf`
+ `Marketing-Analytics-Case-Study---Risk-Adjusted-Channel-Evaluation.pdf`
 
 ---
 
