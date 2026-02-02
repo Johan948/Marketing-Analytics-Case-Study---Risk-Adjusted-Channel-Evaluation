@@ -74,11 +74,11 @@ Explicațiile detaliate privind metodologia, vizualizările și concluziile sunt
 
 ---
 
-### 👤 Autor
+###  Autor
 **Tontici Sergiu**  
 Marketing Analytics / Performance Analysis
 
 ---
 
-### 🎯 De ce este relevant acest proiect
+###    De ce este relevant acest proiect
 Acest proiect demonstrează cum pot fi obținute **insight-uri decizionale relevante**, chiar și în condiții de date incomplete — o situație frecvent întâlnită în practica reală a marketingului digital.
